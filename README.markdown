@@ -7,10 +7,10 @@ This app has been made via leafletjs, openstreetmap as tile map server layer and
 
  **General  view**
 
-![pic1.png](C:/wamp/www/earthquake/pic/pic1.png "")
+![pic1.png](pic/pic1.png "")
 
  **Specific view / scale**
 
-![pic2.png](C:/wamp/www/earthquake/pic/pic2.png "")
+![pic2.png](pic/pic2.png "")
 
  
